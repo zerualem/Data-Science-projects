@@ -1,5 +1,5 @@
 ---
-title: "HS 650 Term Project"
+title: "Continental US Lakes Data Analysis"
 author: "Zerihun Bekele"
 date: "11/26/2018"
 output:
@@ -12,13 +12,6 @@ output:
     toc: yes
     toc_depth: '3'
 ---
-
-**Fall 2018, DSPA (HS650) **
-
-SID: 3911
-UMich E-mail: zerualem@umich.edu
-
-*I certify that the following paper represents my own independent work and conforms with the guidelines of academic honesty described in the UMich student handbook.*
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
