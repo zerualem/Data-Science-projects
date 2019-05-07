@@ -4,6 +4,6 @@ This folder contains detailed analysis of continental US lakes data for the year
 
 The data for this project can be found  from [EPA website](https://www.epa.gov/national-aquatic-resource-surveys/nla).
 
-(https://www.epa.gov/sites/production/files/styles/slideshow_breakpoints_theme_epa_large_1x/public/epa-slideshow-images/nla12_sites_imagery_small.jpg "US lakes")
+![US lakes](https://www.epa.gov/sites/production/files/styles/slideshow_breakpoints_theme_epa_large_1x/public/epa-slideshow-images/nla12_sites_imagery_small.jpg "US lakes")
 
 **NOTE:** The html file is large and you may not be able to view it on Github, so you need to download it to your computer first.
